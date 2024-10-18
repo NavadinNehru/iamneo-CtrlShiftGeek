@@ -15,9 +15,7 @@
 - Add a `.env` file with the following keys
 
   ```
-  WATSONX_APIKEY={}
-  WATSONX_URL={}
-  WATSONX_INSTANCE_ID={}
+  GROQ_API_KEY={}
   ```
 
 - Start your Neo4J server
